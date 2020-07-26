@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SuperblocksHQ/truffle-reference-project)
+
 # [Truffle Reference Project](https://superblocks.com/d/superblocks/projects/reference-projects/)
 
 [![Superblocks](https://superblocks.com/d/superblocks/projects/reference-projects.svg?branch=master)](https://superblocks.com/d/superblocks/projects/reference-projects)
